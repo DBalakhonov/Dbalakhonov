@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
+My name is Danil Balakhonov and im novice developer on JAVA
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+
+## 📫 How to reach me
+(https://icons8.ru/icon/63306/телеграмма-app)
 <!--
 **DBalakhonov/Dbalakhonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
