@@ -7,7 +7,6 @@ My name is Danil Balakhonov and im novice developer on JAVA
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 
 ## 📫 How to reach me
-(https://icons8.ru/icon/63306/телеграмма-app)
 <!--
 **DBalakhonov/Dbalakhonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
